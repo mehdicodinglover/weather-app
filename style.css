@@ -1,0 +1,25 @@
+
+.container{
+    max-width: 400px;
+    background-color: beige;
+    max-height: 100%;
+    letter-spacing: 0.2em;
+    font-size: 80%;
+    font-family: "Arial";
+}
+
+body{
+    background-color: aliceblue;
+}
+
+#search input
+{
+    max-width : 200px ;
+
+}
+
+#placeholder{
+    max-width: 50%;
+    max-height: 50%;
+}
+
